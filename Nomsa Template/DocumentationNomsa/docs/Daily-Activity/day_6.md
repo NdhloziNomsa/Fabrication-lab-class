@@ -12,7 +12,4 @@ I downloaded a liverpool key chain to print. I sliced so small that the printer 
 ![](../images/day_6/pic1.png){ width=300 align=left }   ![](../images/day_6/pic2.png){ width=400 align=right}
 
 
-* Download reference
-
-Links to reference files, PDF, booklets,
 

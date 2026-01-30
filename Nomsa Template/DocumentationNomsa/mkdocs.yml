@@ -2,10 +2,10 @@
 site_name: Nomsa Ndhlozi personal website
 site_description: Nomsa Ndhlozi Fabricademy site
 site_author: Nomsa Ndhlozi
-copyright: Copyright 2025 Your name - Creactive Commons Attribution Non-commercial
+copyright: Copyright 2025 Nomsa Ndhlozi - Creactive Commons Attribution Non-commercial
 
-site_url: https://r-inyuru.github.io/ModelingFabricationTechnique
-repo_url: https://github.com/R-INYURU/
+site_url: https://ndhlozinomsa.github.io/Fabrication-lab-class/
+repo_url: https://github.com/NdhloziNomsa/Fabrication-lab-class
 repo_name: UR-ACEIoT Documentation site
 
 extra:
@@ -69,4 +69,5 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
-  - meta
+  
+  

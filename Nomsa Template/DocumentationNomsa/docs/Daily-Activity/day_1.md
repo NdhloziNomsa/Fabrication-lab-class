@@ -30,7 +30,10 @@ Activity 3 focused on reviewing another student’s documentation website.
 
 As I reviewed the documentation, i learned how to make mine better and learnt how to do other tasks. It also made me more aware of similar gaps in my own documentation.
 
-I evaluated the documentation, I provided constructive feedback highlighting strengths and suggesting improvements, especially in explaining design decisions and fabrication constraints.
+Here is the documentation page of a classmate.
+
+![](../images/andrina.jpeg){ width=800 align=center }
+
 
 
 

@@ -10,7 +10,4 @@ Different materials behave differently during fabrication. Wood is valued for it
 
 Fabrication methods generally fall into subtractive and additive approaches. Subtractive manufacturing removes material for high precision, while additive manufacturing builds objects layer by layer for complex and customized designs. Understanding how materials respond to heat, force, and speed during these processes helps reduce defects, minimize waste, and support sustainable, efficient design practices.
 
-* Download reference
-
-Links to reference files, PDF, booklets,
 
