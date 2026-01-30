@@ -1,13 +1,14 @@
 # 4. Activity of Day 4
 
-## Research
+## Materials & Fabrication Methods
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Understanding materials through making highlights the close relationship between material choice and fabrication methods in design and engineering. Materials are not just structural elements; they determine durability, functionality, cost, and sustainability. Every design decision must consider how a material will be processed, as fabrication methods directly affect the final form and performance of a product.
 
-## References & Inspiration
+Material selection is based on key properties such as strength, flexibility, density, and thermal or electrical behavior. These properties must be matched to the intended function, environment of use, and fabrication process. Choosing materials based on performance requirements rather than appearance helps ensure that designs are practical, reliable, and fit for real-world use.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Different materials behave differently during fabrication. Wood is valued for its natural strength and versatility but is sensitive to grain direction and moisture. Plastics are lightweight and adaptable but are highly affected by heat. Metals offer high strength and precision but require more energy and robust tools, while composites provide engineered performance at the cost of increased fabrication complexity.
 
+Fabrication methods generally fall into subtractive and additive approaches. Subtractive manufacturing removes material for high precision, while additive manufacturing builds objects layer by layer for complex and customized designs. Understanding how materials respond to heat, force, and speed during these processes helps reduce defects, minimize waste, and support sustainable, efficient design practices.
 
 * Download reference
 

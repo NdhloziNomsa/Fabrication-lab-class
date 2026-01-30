@@ -1,12 +1,15 @@
 # 6. Activity of Day 6
 
-## Research
+##  Digital Fabrication II: Additive Manufacturing
+3D printing with an Ultimaker uses Fused Deposition Modeling (FDM) to create objects layer by layer from a digital 3D model. This additive manufacturing process transforms virtual designs into physical parts. An Ultimaker printer consists of key components such as the print head, filament system, build plate, motion system, and control electronics. Successful printing includes loading filament, leveling and cleaning the build plate, preheating the printer and printing the design.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+![](../images/day_6/pic.png){ width=400 align=center }
 
-## References & Inspiration
+This day we practised additive manufacturing using a printer called Ultimaker 2+ Connect. This printer is used to print 3d objects. Once the object is designed using many applications like FreeCad, the file is uploaded to the Ultimaker cura software where adjustments are made to suit printing time.
+In our case, due to time constraints, we downloaded already made 3d files and uploaded them to the software to slice it. 
+I downloaded a liverpool key chain to print. I sliced so small that the printer took 32 minutes with a grey filament. Below are the settings in cura software that printed the picture above.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+![](../images/day_6/pic1.png){ width=300 align=left }   ![](../images/day_6/pic2.png){ width=400 align=right}
 
 
 * Download reference
