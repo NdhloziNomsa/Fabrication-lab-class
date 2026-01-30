@@ -36,7 +36,5 @@ I evaluated the documentation, I provided constructive feedback highlighting str
 
 * Download reference
 
-[NomsaWebsite](https://ndhlozinomsa.github.io/Fabrication-lab-class/)
-
 [Github](https://github.com/NdhloziNomsa/Fabrication-lab-class)
 
